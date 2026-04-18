@@ -24,7 +24,7 @@ ResNet50 + TabNet ensemble · **0.91 AUC** · FastAPI + Docker
 Recall-focused model on imbalanced data · custom behavioral features
 [Repo](https://github.com/Adejare-Workshop)
 
-**Tech Salary Predictor**
+**Global Tech Salary Predictor**
 Regression model + Plotly dashboard for compensation insights
 [Repo](https://github.com/Adejare-Workshop)
 
